@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "minGPT"
+  site-url: "https://xrsrke.github.io/minGPT"
+  description: "Just a repo i reimplement minGPT"
+  repo-branch: main
+  repo-url: "https://github.com/xrsrke/minGPT"
